@@ -1,5 +1,5 @@
 # leetcode_solutions
-Displaying my completed leetcode solutions. To view code check the corresponding .py file in the repository.
+Displaying my completed leetcode solutions. To view code check the corresponding file in the repository.
 
 # Problems:
 

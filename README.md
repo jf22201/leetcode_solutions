@@ -7,6 +7,6 @@ Displaying my completed leetcode solutions. To view code check the corresponding
 Status: Accepeted, Problem description: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ Language: Python
 ## 13. Roman to Integer
 Status: Accepted, Problem description: https://leetcode.com/problems/roman-to-integer/description/ Language: Java
-
-
+## 206. Reverse linked list
+Status: Accepted, Problem description https://leetcode.com/problems/reverse-linked-list/ Language: Java
 
